@@ -12,7 +12,7 @@ output:
   runtime: shiny
 ---
 
-<iframe height="700" width="100%" frameborder="no" src="http://phuongthaost13.shinyapps.io/khoaluan?_ga=2.72295957.760601786.1631686372-2086064406.1631686372"> </iframe>
+<iframe height="700" width="100%" frameborder="no" src="https://phuongthaost13.shinyapps.io/khoaluan/"> </iframe>
 
 
 Hướng dẫn:
