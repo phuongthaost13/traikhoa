@@ -12,6 +12,8 @@ output:
   runtime: shiny
 ---
 
+<iframe height="700" width="100%" frameborder="no" src="http://phuongthaost13.shinyapps.io/khoaluan?_ga=2.72295957.760601786.1631686372-2086064406.1631686372" </iframe>
+
 
 Hướng dẫn:
 
@@ -23,6 +25,5 @@ Hướng dẫn:
 
 
 
-<iframe height="700" width="100%" frameborder="no" src="http://phuongthaost13.shinyapps.io/khoaluan?_ga=2.72295957.760601786.1631686372-2086064406.1631686372" </iframe>
 
 

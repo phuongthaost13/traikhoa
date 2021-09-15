@@ -1,4 +1,4 @@
-baseurl: traikhoa.netlify.app/
+baseurl: "https://traikhoa.netlify.app/"
 languageCode: en-us
 title: Đề tài Nông Học
 theme: hugo-lithium
@@ -17,14 +17,14 @@ permalinks:
   
 menu:
   main:
-    - name: 'Giới thiệu'
-      url: '/about/'
+    - name: "Giới thiệu"
+      url: "/about/"
       weight: 1
-    - name: 'Đề tài'
-      url: '/thesis/'
+    - name: "Đề tài"
+      url: "/thesis/"
       weight: 3
-    - name: 'Lời cảm ơn'
-      url: '/acknowledgement/'
+    - name: "Lời cảm ơn"
+      url: "/acknowledgement/"
       weight: 2
       
 params:
