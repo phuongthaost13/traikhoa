@@ -1,7 +1,7 @@
 baseurl: "https://traikhoa.netlify.app/"
 languageCode: en-us
-title: Đề tài Nông Học
-theme: hugo-lithium
+title: ĐỀ TÀI NÔNG HỌC
+theme: "hugo-ivy"
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
@@ -30,7 +30,7 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
+  description: ""
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
@@ -41,8 +41,9 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: "apple-touch-icon.png"
     width: 50
+    
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
