@@ -1,5 +1,5 @@
 ---
-title: 'Lời cảm ơn'
+title: Lời cảm ơn
 ---
 
 Gửi lời cảm ơn đến:
