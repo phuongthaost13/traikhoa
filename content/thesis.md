@@ -22,7 +22,7 @@ Hướng dẫn:
 
 - Sau khi khảo sát kết thúc, mình sẽ thông báo cách để có được thông tin liên lạc nhằm giúp các bạn liên hệ được đến những đề tài mà các bạn đặc biệt quan tâm.
 
-
+[Bạn có thể đóng góp hoặc chia sẻ cho bài khảo sát tại đây](https://forms.gle/un2q6r2kfpN5wkr79)
 
 
 

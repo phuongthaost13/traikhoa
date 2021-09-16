@@ -2,13 +2,13 @@
 title: Lời cảm ơn
 ---
 
-Gửi lời cảm ơn đến:
+Mọi thứ chỉ là ý tưởng nếu mình không nhận được sự giúp đỡ từ rất nhiều bạn bè. Rất là gửi lời cảm ơn đến:
 
-- Hạ Thi: đã viết phần Intro và chỉnh sửa rất nhiều phần khác cho bài khảo sát.
+- Hạ Thi: đã viết đủ mọi phần intro, body cho bài khảo sát. Cảm ơn vì một tấm ảnh trại khoa rất đẹp.
 
-- Chó Biển: đã ghi chép rất chi tiết buổi báo cáo đề tài tốt nghiệp online, góp ý và xây dựng nội dung cho bài khảo sát.
+- Thảo Vân: đã ghi chép rất chi tiết buổi báo cáo đề tài tốt nghiệp online, là lí do khiến mình muốn thực hiện cuộc khảo sát này.
 
-- Sư cô F1: đã chỉnh sửa giúp bài khảo sát chỉn chu hơn về ngôn từ.
+- Diễm Vi: một ngày kiểm tra đến chục lần nội dung form khảo sát cho mình
 
 - Nhùi: :))
 
@@ -16,3 +16,4 @@ Gửi lời cảm ơn đến:
 
 Hơn hết, rất cảm ơn các anh chị khóa trước của khoa Nông học trường đại học Nông Lâm thành phố Hồ Chí Minh vì những chia sẻ rất tâm huyết dành cho các thế hệ sinh viên kế cận.
 
+[Bạn có thể đóng góp hoặc chia sẻ cho bài khảo sát tại đây](https://forms.gle/un2q6r2kfpN5wkr79)
