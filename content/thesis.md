@@ -1,6 +1,5 @@
 ---
 title: 'Tra cứu đề tài khoa Nông học Đại học Nông Lâm TPHCM'
-author: 'Phương Thảo'
 date: '2021-09-15'
 slug: thesis
 categories: []
