@@ -8,9 +8,9 @@ Mọi thứ chỉ là ý tưởng nếu mình không nhận được sự giúp 
 
 - Thảo Vân: đã ghi chép rất chi tiết buổi báo cáo đề tài tốt nghiệp online, là lí do khiến mình muốn thực hiện cuộc khảo sát này.
 
-- Diễm Vi: một ngày kiểm tra đến chục lần nội dung form khảo sát cho mình
+- Diễm Vy: một ngày kiểm tra đến chục lần nội dung form khảo sát cho mình
 
-- Nhùi: :))
+- Trúc Bùi: :))
 
 - 13 bạn K44 khoa Nông học đã đề xuất các ý tượng cho bài khảo sát.
 
