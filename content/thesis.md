@@ -13,6 +13,8 @@ output:
 
 [Bạn có thể đóng góp hoặc chia sẻ cho bài khảo sát tại đây](https://forms.gle/un2q6r2kfpN5wkr79)
 
+[Tra cứu dễ dàng hơn tại đây](https://phuongthaost13.shinyapps.io/khoaluan/)
+
 <iframe height="700" width="100%" frameborder="no" src="https://phuongthaost13.shinyapps.io/khoaluan/"> </iframe>
 
 
