@@ -44,6 +44,10 @@ params:
     url: "apple-touch-icon.png"
     width: 50
     
+  socials:
+    github: "phuongthaost13"
+    facebook: "13saturdayst"
+    
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
