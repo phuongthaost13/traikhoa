@@ -45,8 +45,8 @@ params:
     width: 50
     
   socials:
-    github: "phuongthaost13"
-    facebook: "13saturdayst"
+    github: "https://github.com/phuongthaost13"
+    facebook: "https://facebook.com/13saturdayst"
     
 markup:
   defaultMarkdownHandler: goldmark
