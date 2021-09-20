@@ -22,9 +22,8 @@ Hướng dẫn:
 
 - Dữ liệu được trình bày ở trang này được lấy từ khảo sát sinh viên Nông học các khóa. Kết quả được sắp xếp theo dữ liệu từ cũ đến mới nhất và sẽ được cập nhật mỗi 2 ngày một lần cho đến khi kết thúc cuộc khảo sát. 
 
-- Bạn có thể lọc cùng lúc nhiều mục, chọn và nhấn delete để xóa mục đã chọn.
 
-- Sau khi khảo sát kết thúc, mình sẽ thông báo cách để có được thông tin liên lạc nhằm giúp các bạn liên hệ được đến những đề tài mà các bạn đặc biệt quan tâm.
+- Thông tin người thực hiện đề tài tìm tại mục **Liên hệ đề tài**
 
 
 

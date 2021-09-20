@@ -26,6 +26,9 @@ menu:
     - name: "Lời cảm ơn"
       url: "/acknowledgement/"
       weight: 2
+    - name: "Liên hệ đề tài"
+      url: "/thesis-contact/"
+      weight: 4
       
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
