@@ -23,7 +23,7 @@ Hướng dẫn:
 - Dữ liệu được trình bày ở trang này được lấy từ khảo sát sinh viên Nông học các khóa. Kết quả được sắp xếp theo dữ liệu từ cũ đến mới nhất và sẽ được cập nhật mỗi 2 ngày một lần cho đến khi kết thúc cuộc khảo sát. 
 
 
-- Thông tin người thực hiện đề tài tìm tại mục **Liên hệ đề tài**
+- Thông tin người thực hiện đề tài tìm tại mục [Liên hệ đề tài](https://traikhoa.netlify.app/thesis-contact/)
 
 
 
