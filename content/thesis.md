@@ -1,5 +1,5 @@
 ---
-title: 'Tra cứu đề tài khoa Nông học Đại học Nông Lâm TPHCM'
+title: 'Tra cứu kinh nghiệm thực hiện đề tài Nông học'
 date: '2021-09-15'
 slug: thesis
 categories: []
